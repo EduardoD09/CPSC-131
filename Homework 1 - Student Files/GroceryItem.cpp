@@ -1,7 +1,7 @@
 module;                                                                               // Global fragment (not part of the module)
   // should be removed when #include "quoted_string_patch.inc" below is removed
   #include <version>
-
+  #include <ostream>
 
 
 
